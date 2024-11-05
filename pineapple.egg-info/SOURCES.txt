@@ -1,0 +1,7 @@
+README.md
+setup.py
+pineapple.egg-info/PKG-INFO
+pineapple.egg-info/SOURCES.txt
+pineapple.egg-info/dependency_links.txt
+pineapple.egg-info/requires.txt
+pineapple.egg-info/top_level.txt
